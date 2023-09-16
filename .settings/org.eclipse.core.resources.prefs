@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/DuongShop/Controller/User/CartController.java=UTF-8
+encoding//src/main/java/DuongShop/Controller/User/OrderSuccessController.java=UTF-8
+encoding//src/main/java/DuongShop/Controller/User/ProductController.java=UTF-8
+encoding//src/main/java/DuongShop/Controller/User/SearchController.java=UTF-8
+encoding//src/main/java/DuongShop/Controller/User/UserController.java=UTF-8
+encoding//src/main/java/DuongShop/Dao/ProductsDao.java=UTF-8
+encoding//src/main/java/DuongShop/Dao/UsersDao.java=UTF-8
+encoding//src/main/java/DuongShop/Service/User/AccountServiceIpml.java=UTF-8
+encoding//src/main/java/DuongShop/Service/User/CategoryServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/cart/order_success.jsp=UTF-8
